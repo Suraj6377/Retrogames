@@ -1,0 +1,5 @@
+{
+  "name": "RetroNES Vault",
+  "description": "A modern, high-performance NES emulator and game library. Upload, manage, and play your favorite classic titles directly in your browser.",
+  "requestFramePermissions": []
+}
